@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm Fazal Diyan</h1>
+<h1 align="center">Hi 👋, I'm Fazal</h1>
 <h3 align="center">A Python Developer</h3>
-
+<img align="right" alt = "coding" width="400" src="https://github.com/fazal-coder/fazal-coder/blob/main/coder.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazal-coder&label=Profile%20views&color=0e75b6&style=flat" alt="fazal-coder" /> </p>
 
 - 🌱 I’m currently learning **Mechine Learning**
