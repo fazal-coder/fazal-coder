@@ -1,4 +1,4 @@
-
+![logo](https://github.com/fazal-coder/fazal-coder/blob/main/download.jpeg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Fazal</h1>
 <h3 align="center">A Python Developer</h3>
